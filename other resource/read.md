@@ -17,6 +17,14 @@ https://github.com/mytechnotalent/Reverse-Engineering
 5)BlueTeam-Tools
 https://github.com/A-poc/BlueTeam-Tools
 
+6)Awesome Cyber Security
+https://github.com/fabionoth/awesome-cyber-security
+
+7)Digital-Forensics-Guide
+https://github.com/mikeroyal/Digital-Forensics-Guide
+
+8)awesome-cyber-security-university
+https://github.com/brootware/awesome-cyber-security-university
 LAB SESSION 
 1)try hack me
 A)https://github.com/winterrdog/tryhackme-free-rooms?tab=readme-ov-file
