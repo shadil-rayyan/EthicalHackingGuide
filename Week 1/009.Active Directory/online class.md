@@ -1,5 +1,4 @@
 ##first read the notes then do hear the class lisited below 
 
-1)#https://youtube.com/playlist?list=PLhgvoVxtpsW6tl-QKDz167pzPVI-Y_lDO&si=uWPU33NBhh6ZN4tR<br>
-             or<br>
-https://youtube.com/playlist?list=PL78ppT-_wOmuwT9idLvuoKOn6UYurFKCp&si=YmgEV84ySNbyO-aC
+1)[active directory class
+(https://youtube.com/playlist?list=PL1l78n6W8zypXtkh3uWIXbPssc4IGbfb5&si=qC9gftZRwIuSJsDS)]
